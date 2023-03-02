@@ -1,8 +1,10 @@
+import Nav from "./Components/Navbar"
 
 function App() {
 
   return (
     <>
+    <Nav/>
     </>
   )
 }
